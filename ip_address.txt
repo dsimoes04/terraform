@@ -1,0 +1,3 @@
+terraform-instance:  34.70.151.137 
+terraform-instance:  34.70.151.137 
+terraform-instance:  146.148.56.111 

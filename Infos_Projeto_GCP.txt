@@ -1,0 +1,5 @@
+Nome do projeto: terraform01
+
+ID do Projeto: terraform01-14122019
+
+Nome da Conta: terraform
